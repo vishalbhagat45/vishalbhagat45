@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalbhagat45
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m a Frontend Developer
+  
 
 <!---
 vishalbhagat45/vishalbhagat45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
